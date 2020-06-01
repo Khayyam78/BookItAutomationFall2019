@@ -21,7 +21,8 @@
             </plugin>
         </plugins>
     </build>
-    <dependencies>
+
+     <dependencies>
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
@@ -84,8 +85,7 @@
             <artifactId>poi-ooxml</artifactId>
             <version>4.1.2</version>
         </dependency>
-        ​
-    </dependencies>
+     </dependencies>
 
 
 
